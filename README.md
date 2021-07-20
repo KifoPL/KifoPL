@@ -7,6 +7,11 @@ I work as a Junior C# Dev since May 2021. The biggest open-source project I'm cu
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=KifoPL&theme=blue-green)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KifoPL&theme=blue-green)
+
+![GH Streak (inaccurate, because I mostly do local commits daily and push them online irregularly)](https://github-readme-streak-stats.herokuapp.com/?user=KifoPL&theme=blue-green)
+
+
 ## My skills
 ### Advanced:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -22,13 +27,15 @@ I'm a *pretty good* graphic designer. I'm familiar with Adobe Photoshop, Premier
 
 [![imgur](https://img.shields.io/badge/portfolio-imgur-green)](https://imgur.com/a/uSypOWU)
 
-# Contact
-## Socials:
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/story/13640761)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kifolft)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4yZgTHfmVDmKlDIhDwVp3w)
-## Support me:
-[![Buy me a beer](https://badgen.net/badge/icon/buymeabeer?icon=buymeacoffee&label)](https://www.buymeacoffee.com/kifoPL)
-## Have a question?
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kifounaabi@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HxUFQCxPFp)
+## PC Specs:
+
+![](https://img.shields.io/badge/NVIDIA-RTX3070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i9_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+![](https://i.imgur.com/wRBellC.png)
+
+# Links and contact:
+
+[![Contact links](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bio.link/kifopl)
+
+*Check out all of my links and contact info by clicking the button above!*
