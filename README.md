@@ -2,7 +2,7 @@
 
 I'm extremely happy you've decided to check out my profile.
 
-I work as a C# Dev since May 2021. The biggest open-source project I'm currently maintaining is [Kifo Clanker](https://github.com/KifoPL/kifo-clanker). It's a discord bot that simplifies a lot of server management process. It's written by admin, for admins.
+I work as a C# Dev since February 2020. The biggest open-source project I'm currently maintaining is [Kifo Clanker](https://github.com/KifoPL/kifo-clanker). It's a discord bot that simplifies a lot of server management process. It's written by admin, for admins.
 > Feel free to [invite it](https://discord.com/oauth2/authorize?client_id=795638549730295820&permissions=2416299088&scope=bot) to your server and test the bot yourself!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=KifoPL&theme=blue-green)
